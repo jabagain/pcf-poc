@@ -29,9 +29,7 @@ public class PromoInquiry {
 		return output;
 	}
 	
-	public void test() {
-	
-	}
+
 	
 //	public static void main(String[] args) {
 //		new PromoInquiry();
