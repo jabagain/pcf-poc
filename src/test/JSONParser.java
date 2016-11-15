@@ -49,6 +49,5 @@ public class JSONParser {
 		return data;
 	}
 	
-	public void test() {
-	}
+	
 }
