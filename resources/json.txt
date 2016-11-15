@@ -1,5 +1,5 @@
 {
-    "name": "Jake Bagain",
+    "name": "Jake",
     "age": "29",
     "address": {
         "street": "Unit 3D,  3506 Vigan St.",
