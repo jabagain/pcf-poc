@@ -24,6 +24,7 @@ public class PromoInquiry {
 		String description = keyword.get(kw);
 		
 		System.out.println("KW Description: " + description);
+		System.out.println("");
 		
 		String output = "<promo>" + "<keyword>" + kw + "</keyword>" + "<description>" + description + "</description>" + "</promo>";
 		return output;
