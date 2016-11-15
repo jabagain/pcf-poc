@@ -4,6 +4,6 @@
     "address": {
         "street": "Unit 3D,  3506 Vigan St.",
         "barangay": "Brgy. 579",
-        "city": "Sampaloc, Manila"
+        "city": "Sampaloc"
     }
 }
